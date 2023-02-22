@@ -6,8 +6,4 @@ The URL can be any domain such as `www.cnn.com` or `www.amazon.com`
 An example:
     `python mydig.py www.cnn.com`
 
-Requests time out if they longer than 5 seconds to resolve. # CSE310-Assignments
-# CSE310-Assignments
-# CSE310-Assignments
-# CSE310-Assignments
-# CSE310-Assignments
+Requests time out if they longer than 5 seconds to resolve.
